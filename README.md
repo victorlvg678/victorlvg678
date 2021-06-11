@@ -1,16 +1,13 @@
-### Hi there 👋
-
 <!--
 **victorlvg678/victorlvg678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+# Hi there 👏. I'm Victor Leonardo Valle Guerra ![visitors](https://visitor-badge.glitch.me/badge?page_id=victorlvg678.victorlvg678)
+<span>Full Stack developer and infosec researcher </span>
+<h3 align="center">My GitHub stats</h3>
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=victorlvg678&theme=white-blue)" />
+</div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorlvg678&show_icons=true&hide_border=true&&count_private=true&include_all_commits=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlvg678&theme=white-blue&show_icons=true&count_private=true&include_all_commits=true" />
+</div>
