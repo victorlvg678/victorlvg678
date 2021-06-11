@@ -9,5 +9,7 @@
 </div>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorlvg678&show_icons=true&hide_border=true&&count_private=true&include_all_commits=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlvg678&theme=white-blue&show_icons=true&count_private=true&include_all_commits=true" />
+</div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlvg678&langs_count=8&layout=compact" />
 </div>
